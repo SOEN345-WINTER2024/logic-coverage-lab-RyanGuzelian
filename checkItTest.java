@@ -12,6 +12,5 @@ public class checkItTest {
     public void testCheckItPredicateCoverage2() {
         assertFalse(CheckIt.checkIt(false, true, false));
     }
-
     
 }
